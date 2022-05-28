@@ -1,0 +1,15 @@
+C:\Users\alumno\Desktop\PROGRA 3\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0\ProyectoFinal.exe
+C:\Users\alumno\Desktop\PROGRA 3\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0\ProyectoFinal.deps.json
+C:\Users\alumno\Desktop\PROGRA 3\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0\ProyectoFinal.runtimeconfig.json
+C:\Users\alumno\Desktop\PROGRA 3\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0\ProyectoFinal.dll
+C:\Users\alumno\Desktop\PROGRA 3\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0\ref\ProyectoFinal.dll
+C:\Users\alumno\Desktop\PROGRA 3\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0\ProyectoFinal.pdb
+C:\Users\alumno\Desktop\PROGRA 3\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\alumno\Desktop\PROGRA 3\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Desktop\PROGRA 3\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\PROGRA 3\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.AssemblyInfo.cs
+C:\Users\alumno\Desktop\PROGRA 3\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\PROGRA 3\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.dll
+C:\Users\alumno\Desktop\PROGRA 3\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0\ref\ProyectoFinal.dll
+C:\Users\alumno\Desktop\PROGRA 3\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.pdb
+C:\Users\alumno\Desktop\PROGRA 3\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.genruntimeconfig.cache
